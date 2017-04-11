@@ -57,3 +57,19 @@ td {
 .button a:hover {
     color:white;
 }
+
+.zip_download_link {
+  background: url(../images/sprite_download2.png) no-repeat bottom left;
+}
+
+.tar_download_link {
+  background: url(../images/sprite_download2.png) no-repeat bottom right;
+}
+
+.zip_download_link:hover {
+  background: url(../images/sprite_download2.png) no-repeat top left;
+}
+
+.tar_download_link:hover {
+  background: url(../images/sprite_download2.png) no-repeat top right;
+}
