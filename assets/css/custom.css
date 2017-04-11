@@ -1,0 +1,59 @@
+th {
+    padding: 2px 10px;
+}
+td {
+    padding: 2px 10px;
+}
+
+#project_title {
+    background: transparent url(../../images/powerSSAS-icon.gif) 0 0 no-repeat;
+    padding-left: 80px;
+}
+
+#menu-wrap {
+    background-color: #f2f2f2;
+}
+
+#menu-wrap .inner {
+    padding:10px;
+}
+
+#menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+#main_content_wrap {
+    border-top-width: 0;
+}
+
+.button {
+    width: 80px;
+    margin: 0px 2px;
+    padding: 5px 10px;
+    height: 35px;
+    
+    background: #bbbbbb;
+    color:black;
+    font-weight: bold;
+}
+
+.button:hover  {
+    background: #0090ff;
+    color:white;
+}
+
+.button:hover a {
+    color:white;
+}
+
+.button a
+{
+    text-align: center;
+    vertical-align: middle;
+    margin:auto;
+}
+.button a:hover {
+    color:white;
+}

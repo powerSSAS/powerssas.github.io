@@ -1,0 +1,13 @@
+theme: jekyll-theme-slate 
+name: powerSSAS
+title: powerSSAS
+description: A Powershell provider for SQL Server Analysis Services
+show_downloads: true
+google_analytics:
+ 
+
+collections:
+  cmdlets:
+    output: true
+  examples:
+    output: true
