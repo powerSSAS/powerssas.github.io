@@ -1,5 +1,5 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gemspec
-github-pages
-"jekyll-theme-slate"
+# gemspec
+gem "github-pages"
+gem "jekyll-theme-slate"
